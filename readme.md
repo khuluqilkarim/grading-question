@@ -11,7 +11,7 @@ installasi tools grading sudah kami siapkan untuk OS Linux dan Windows [disini](
 ### Tutorial grading
 
 ```bash
-1. membuaka link soal
+1. membuka link soal
 2. selesaikan soal pada website
 4. inputkan code soal (contoh : xssrootme1)
 3. flag pada soal di inputkan pada sistem grading
